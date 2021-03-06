@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Sacramento&display=swap");
+body {
+  font-family: "Quicksand", sans-serif !important;
+}
+p {
+  font-weight: bolder !important;
+  color: #a0a0a0;
+}
+button:focus {
+  outline: none !important;
+}
+.special-font {
+  font-family: "Sacramento", cursive !important;
+}
