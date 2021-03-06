@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goodreads/static/css/main.26597a3b.chunk.css",
+    "main.js": "/goodreads/static/js/main.ebd740e3.chunk.js",
+    "main.js.map": "/goodreads/static/js/main.ebd740e3.chunk.js.map",
+    "runtime-main.js": "/goodreads/static/js/runtime-main.03067048.js",
+    "runtime-main.js.map": "/goodreads/static/js/runtime-main.03067048.js.map",
+    "static/js/2.dc5cf475.chunk.js": "/goodreads/static/js/2.dc5cf475.chunk.js",
+    "static/js/2.dc5cf475.chunk.js.map": "/goodreads/static/js/2.dc5cf475.chunk.js.map",
+    "index.html": "/goodreads/index.html",
+    "static/css/main.26597a3b.chunk.css.map": "/goodreads/static/css/main.26597a3b.chunk.css.map",
+    "static/js/2.dc5cf475.chunk.js.LICENSE.txt": "/goodreads/static/js/2.dc5cf475.chunk.js.LICENSE.txt",
+    "static/media/illustration1.png": "/goodreads/static/media/illustration1.f7784bd2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03067048.js",
+    "static/js/2.dc5cf475.chunk.js",
+    "static/css/main.26597a3b.chunk.css",
+    "static/js/main.ebd740e3.chunk.js"
+  ]
+}
