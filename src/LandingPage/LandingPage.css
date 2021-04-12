@@ -1,0 +1,47 @@
+.name-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.app-welcome-label {
+  font-size: 6vh;
+}
+.app-description {
+  font-weight: bold;
+  font-size: 2vh;
+  padding: 2%;
+}
+.continue-btn {
+  font-weight: bold;
+  min-width: 20%;
+  max-width: 30%;
+  margin-left: 2%;
+}
+.learn-more-btn {
+  font-weight: bold;
+  min-width: 20%;
+  max-width: 30%;
+  margin-left: 2%;
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container-row {
+  margin-top: 25%;
+}
+.centralized-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.nav-link {
+  width: 100%;
+  margin-bottom: 1%;
+}
+.fluid {
+  width: 100%;
+}

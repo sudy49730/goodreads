@@ -1,0 +1,25 @@
+.news-card {
+  width: 80%;
+  max-width: 80%;
+}
+.news-card-row {
+  display: flex;
+  flex-direction: row;
+}
+.category-btn {
+  margin-right: 1%;
+}
+.header-text {
+  text-transform: capitalize;
+}
+.header {
+  margin-left: 0.2%;
+  margin-right: 0.2%;
+}
+
+.header > button {
+  margin: 1%;
+}
+.home-btn {
+  margin-left: 1%;
+}
